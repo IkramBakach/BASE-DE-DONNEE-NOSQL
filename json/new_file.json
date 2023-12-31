@@ -1,0 +1,38 @@
+[
+  {
+    "cle": "001",
+    "lieu": [
+      "Mar 1",
+      "Rane 1"
+    ],
+    "info": [
+      "L'info 1"
+    ]
+  },
+  {
+    "cle": "002",
+    "lieu": [
+      "Mar 2",
+      "Rane 2"
+    ],
+    "info": [
+      "L'info 2"
+    ]
+  },
+  {
+    "cle": "003",
+    "lieu": [
+      "Mar 3",
+      "Rane 3",
+      "Lila 1"
+    ],
+    "info": [
+      "L'info 3"
+    ]
+  },
+  {
+    "cle": "004",
+    "lieu": "Mar 4",
+    "info": "L'info 4"
+  }
+]
